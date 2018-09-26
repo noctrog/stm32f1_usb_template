@@ -1,0 +1,10 @@
+-Icmsis/include
+-Ihal/include
+-Icmsis/device/include
+-Iinclude
+-Iusb_core/include
+-Iusb_class/include
+-DSTM32F103xB
+-std=c99
+-Wall
+-Wa,-ahlms=obj/main.lst
